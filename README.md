@@ -1,8 +1,8 @@
-<<<<<<< HEAD
-# Terminal-Portfolio
-=======
-* An interactive React-based portfolio designed to mimic the macOS Terminal, allowing users to enter commands to explore my technical skills, projects, and contact information through a command-line interface.
 
+# Terminal-Portfolio
+  * An interactive React-based portfolio designed to mimic the macOS Terminal, allowing users to enter commands to explore my technical skills, projects, and contact information through a command-line interface.
+
+=======
 
 # React + Vite
 
