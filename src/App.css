@@ -1,0 +1,78 @@
+.terminal {
+  width: 100%;
+  min-height: 100vh;
+  background: #1e1e1e;
+  color: #f1f1f1;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+}
+
+.terminal-titlebar {
+  height: 38px;
+  background: #323232;
+  display: flex;
+  align-items: center;
+  position: relative;
+
+  
+}
+
+.window-controls {
+  display: flex;
+  gap: 8px;
+  margin-left: 14px;
+}
+
+.control {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+}
+
+.close {
+  background: #ff5f57;
+}
+
+.minimize {
+  background: #febc2e;
+}
+
+.maximize {
+  background: #28c840;
+}
+
+.terminal-title {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  color: #cfcfcf;
+  font-size: 13px;
+}
+
+.terminal-body {
+  padding: 5px;
+}
+
+.prompt {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.prompt input {
+  flex: 1;
+  background: transparent;
+  border: none;
+  outline: none;
+  color: inherit;
+  font: inherit;
+}
+
+.history-item {
+    margin-bottom: 16px;
+}
+
+.command-output {
+    white-space: pre-line;
+    margin-top: 10px;
+    
+}
