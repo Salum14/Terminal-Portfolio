@@ -1,6 +1,9 @@
 <<<<<<< HEAD
 # Terminal-Portfolio
 =======
+* An interactive React-based portfolio designed to mimic the macOS Terminal, allowing users to enter commands to explore my technical skills, projects, and contact information through a command-line interface.
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
